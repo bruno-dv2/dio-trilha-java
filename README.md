@@ -1,2 +1,3 @@
 # dio-trilha-java
-# testanto git
+# testanto git pull
+# testantp git fetch
